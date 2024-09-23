@@ -4,7 +4,7 @@ export default [
         job : "Lead Product Designer",
         name : "Mercedes Bazan",
         role : ["Leadership", "Product", "UX"],
-        image : "public/cd3266dde4f00a5d6a509c7375ddaecd.webp"
+        image : "/cd3266dde4f00a5d6a509c7375ddaecd.webp"
     },
 
     {
