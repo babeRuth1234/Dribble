@@ -11,7 +11,7 @@ export default [
         id : 2,
         job : "Brand Designer ",
         name : "Chris Owens",
-        image : "public/1fb34610061a95a007ac5e7b1dc53138.webp",
+        image : "/1fb34610061a95a007ac5e7b1dc53138.webp",
         role : ["UI", "Web", "Mobile"]
     },
     {
@@ -19,7 +19,7 @@ export default [
         job : "Illustrator",
         name : "Lilla Bardenova",
         role : ["Brand", "Illustration", "UX"],
-        image : "public/9b22cd83bde1809976bec0722d1f8923.webp",
+        image : "/9b22cd83bde1809976bec0722d1f8923.webp",
     },
 
     
@@ -28,7 +28,7 @@ export default [
         job : "Design Director",
         name : "Daniele Buffa",
         role : ["UI", "Web", "Mobile"],
-        image : "public/mercedes-bazan.webp",
+        image : "/mercedes-bazan.webp",
 
     },
             
@@ -37,7 +37,7 @@ export default [
         job : "Creative Director",
         name : "Helen Tran",
         role : ["Illustration", "UI", ],
-        image : "public/Vladimir_Gruev.webp"
+        image : "/Vladimir_Gruev.webp"
 
     },
             
@@ -46,7 +46,7 @@ export default [
         job : "Brand + Illustrator",
         name : "Vladimire Gruev",
         role : ["Brand","UI"],
-        image : "public/daniele-buffa-3.webp"
+        image : "/daniele-buffa-3.webp"
 
     },
     {
@@ -54,7 +54,7 @@ export default [
         job : "Principal Designer",
         name : "Victa Willie",
         role : ["Product", "UX"],
-        image : "public/videoplayback.mp4"
+        image : "/videoplayback.mp4"
 
     }
           
